@@ -1,6 +1,11 @@
 # Kubernetes
 Azure Kubernetes basic sample
 
+#Create a VM Windows Server 2016 with Container Support
+1. Install the Chrome
+2. Install Visual Studio 2011 Community edition
+3. Install Visual studio Core
+
 Follow the below article to setup basic AKS... 
 Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal provided by microsoft.
 
