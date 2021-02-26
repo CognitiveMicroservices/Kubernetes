@@ -6,6 +6,14 @@ Azure Kubernetes basic sample
 2. Install Visual Studio 2011 Community edition
 3. Install Visual studio Core
 
+Install and Set Up kubectl
+https://kubernetes.io/docs/tasks/tools/
+
+Install Chocolatey..
+https://chocolatey.org/install
+
+Install Kind..
+
 Follow the below article to setup basic AKS... 
 Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal provided by microsoft.
 
